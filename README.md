@@ -1,4 +1,27 @@
-# CarlosAlves
-Especialista em Segurança da Informação com experiência em defesa cibernética, monitoramento de ameaças, CTI, SIEM/SOC e hardening de infraestrutura. Atuo com automação e resposta a incidentes, Wazuh, MISP e ferramentas open-source para detecção e mitigação de riscos.
+# Olá, eu sou Carlos Augusto Lima Alves 👋
 
-Focado em melhoria contínua, engenharia de segurança e compartilhamento de conhecimento. Uso este GitHub para estudos, laboratórios, scripts de automação e projetos de cibersegurança.
+## Sobre mim
+
+🔹 Trabalho na Secreatria de Governança Digital e Integração do Distrito Federal
+🔹 Especialista em Cybersecurity
+🔹 +10 anos em Segurança da Informação
+🔹 Ex-CTIR da Força Aérea Brasileira
+🔹 Foco em SOC, CTI, Blue Team e Cloud Security
+
+## Tecnologias
+
+- Wazuh
+- Elastic Stack
+- MISP
+- Python
+- N8N
+
+## Atualmente estudando
+
+📚 IA aplicada à Cibersegurança
+📚 Threat Intelligence
+📚 Programação para integrar automatizar rotinas
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/carlos-alves-8003621aa/
